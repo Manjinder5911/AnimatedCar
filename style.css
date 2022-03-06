@@ -115,5 +115,6 @@ body{
     }
     #track{
         animation: carMove linear 0.3s infinite;
+        animation-play-state: paused;
     }
 }
